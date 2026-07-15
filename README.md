@@ -67,9 +67,6 @@ Async task management backend with status-based filtering and containerized depl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogesh-kumar-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-kumar-sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=yogesh-kumar-sharma&theme=tokyonight&hide_border=true" width="60%" />
