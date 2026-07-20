@@ -50,7 +50,13 @@
 ## Featured Projects
 
 <!-- Update the GitHub links below with your actual repository URLs -->
+### 🎓 CampusOS ERP
 
+Production-grade University ERP Backend built with FastAPI, PostgreSQL, SQLAlchemy, Redis, JWT Authentication, and Docker.
+
+> 🚧 **Current Status:** Backend completed. Next.js frontend is under active development.
+
+[View Repository →](https://github.com/yogesh-kumar-sharma/CampusOS-ERP)
 ### 📝 Blog Platform API
 JWT-authenticated blogging backend with full CRUD for posts & comments, relational schema, and Docker support.
 **Stack:** FastAPI · PostgreSQL · JWT · SQLAlchemy · Docker
