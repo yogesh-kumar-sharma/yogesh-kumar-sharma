@@ -56,11 +56,29 @@ Production-grade University ERP Backend built with FastAPI, PostgreSQL, SQLAlche
 
 > 🚧 **Current Status:** Backend completed. Next.js frontend is under active development.
 
-[View Repository →](https://github.com/yogesh-kumar-sharma/CampusOS-ERP)
+[View Repository →](https://github.com/yogesh-kumar-sharma/Campus-os-erp)
 ### 📝 Blog Platform API
 JWT-authenticated blogging backend with full CRUD for posts & comments, relational schema, and Docker support.
 **Stack:** FastAPI · PostgreSQL · JWT · SQLAlchemy · Docker
 [GitHub →](https://github.com/yogesh-kumar-sharma)
+
+## 🔐 Authentication API
+
+Production-ready authentication service built with FastAPI.
+**Features**
+- JWT Authentication
+- Refresh Token Rotation
+- Role-Based Access Control
+- Password Reset
+- Email Verification
+- Docker Support
+
+**Stack**
+
+FastAPI • PostgreSQL • SQLAlchemy • JWT • Docker
+
+[Repository →](https://github.com/yogesh-kumar-sharma/authentication-api-fastapi)
+
 
 ### ✅ Task Management API
 Async task management backend with status-based filtering and containerized deployment.
