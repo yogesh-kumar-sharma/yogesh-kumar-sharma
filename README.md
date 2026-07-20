@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <!-- Animated Typing Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yogesh+Kumar+Sharma;Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker)](https://git.io/typing-svg)
@@ -56,11 +56,7 @@ Production-grade University ERP Backend built with FastAPI, PostgreSQL, SQLAlche
 
 > 🚧 **Current Status:** Backend completed. Next.js frontend is under active development.
 
-[View Repository →](https://github.com/yogesh-kumar-sharma/Campus-os-erp)
-### 📝 Blog Platform API
-JWT-authenticated blogging backend with full CRUD for posts & comments, relational schema, and Docker support.
-**Stack:** FastAPI · PostgreSQL · JWT · SQLAlchemy · Docker
-[GitHub →](https://github.com/yogesh-kumar-sharma)
+[View Repository →](https://github.com/yogesh-kumar-sharma/Campus-os-erp
 
 ## 🔐 Authentication API
 
@@ -80,10 +76,11 @@ FastAPI • PostgreSQL • SQLAlchemy • JWT • Docker
 [Repository →](https://github.com/yogesh-kumar-sharma/authentication-api-fastapi)
 
 
-### ✅ Task Management API
-Async task management backend with status-based filtering and containerized deployment.
-**Stack:** FastAPI · PostgreSQL · AsyncIO · Docker
+### 📝 Blog Platform API
+JWT-authenticated blogging backend with full CRUD for posts & comments, relational schema, and Docker support.
+**Stack:** FastAPI · PostgreSQL · JWT · SQLAlchemy · Docker
 [GitHub →](https://github.com/yogesh-kumar-sharma)
+
 
 <br/>
 
