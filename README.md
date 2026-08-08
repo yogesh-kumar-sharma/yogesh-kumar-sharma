@@ -108,22 +108,88 @@ Next.js + TypeScript front for the work above — live deployments, architecture
 
 &nbsp;
 
-## Toolchain
+## Tech Stack
 
 <table width="100%">
-<tr><td width="150"><sub>LANGUAGES</sub></td><td><img src="https://skillicons.dev/icons?i=python,ts,js" theme="dark"/></td></tr>
-<tr><td><sub>BACKEND</sub></td><td><img src="https://skillicons.dev/icons?i=fastapi,nodejs" theme="dark"/></td></tr>
-<tr><td><sub>DATA</sub></td><td><img src="https://skillicons.dev/icons?i=postgres,sqlite,redis" theme="dark"/> <img src="https://img.shields.io/badge/SQLAlchemy_2.0-1A1F26?style=flat-square"/> <img src="https://img.shields.io/badge/Alembic-1A1F26?style=flat-square"/></td></tr>
-<tr><td><sub>INFRASTRUCTURE</sub></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux" theme="dark"/></td></tr>
-<tr><td><sub>DEPLOYMENT</sub></td><td><img src="https://img.shields.io/badge/Railway-1A1F26?style=flat-square"/> <img src="https://img.shields.io/badge/Vercel-1A1F26?style=flat-square"/> <img src="https://img.shields.io/badge/Neon-1A1F26?style=flat-square"/></td></tr>
-<tr><td><sub>CLOUD</sub></td><td><img src="https://skillicons.dev/icons?i=aws" theme="dark"/></td></tr>
-<tr><td><sub>TESTING</sub></td><td><img src="https://img.shields.io/badge/Pytest-1A1F26?style=flat-square"/></td></tr>
-<tr><td><sub>DOCUMENTATION</sub></td><td><img src="https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-1A1F26?style=flat-square"/></td></tr>
-<tr><td><sub>AI APIS</sub></td><td><img src="https://img.shields.io/badge/LLM%20APIs-1A1F26?style=flat-square"/></td></tr>
-<tr><td><sub>DEV TOOLS</sub></td><td><img src="https://skillicons.dev/icons?i=postman,vscode" theme="dark"/></td></tr>
+
+<tr>
+<td width="220" valign="middle"><sub>LANGUAGES</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=python,ts,js" theme="dark" height="32"/></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>BACKEND FRAMEWORK</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=fastapi" theme="dark" height="32"/>&nbsp;&nbsp;<sub>ASGI · async-first · dependency injection</sub></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>DATABASE</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=postgres,sqlite" theme="dark" height="32"/></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>ORM & VALIDATION</sub></td>
+<td valign="middle"><sub>SQLAlchemy 2.0 · Alembic · Pydantic</sub></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>AUTHENTICATION</sub></td>
+<td valign="middle"><sub>JWT · OAuth2 · RBAC · bcrypt</sub></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>CACHING</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=redis" theme="dark" height="32"/></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>DEVOPS</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" theme="dark" height="32"/></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>CLOUD & DEPLOYMENT</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=aws,vercel" theme="dark" height="32"/>&nbsp;&nbsp;<sub>Railway · Neon</sub></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>API & DOCUMENTATION</sub></td>
+<td valign="middle"><sub>OpenAPI · Swagger</sub></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>AI INTEGRATION</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=openai" theme="dark" height="32"/>&nbsp;&nbsp;<sub>LLM APIs</sub></td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="middle"><sub>DEVELOPER TOOLS</sub></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=postman,vscode" theme="dark" height="32"/></td>
+</tr>
+
 </table>
 
-<sub>Currently learning — Celery · Nginx · CI/CD · WebSockets · Microservices</sub>
+<sub>In progress — Celery · Nginx · CI/CD · WebSockets · Microservices</sub>
 
 <br/>
 
