@@ -107,95 +107,25 @@ Next.js + TypeScript front for the work above — live deployments, architecture
 `jwt` `comments` `likes` `bookmarks` `tags` `search` `docker`
 
 &nbsp;
-
 ## Tech Stack
 
-<table width="100%">
-
-<tr>
-<td width="220" valign="middle"><sub>LANGUAGES</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=python,ts,js" theme="dark" height="32"/></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>BACKEND FRAMEWORK</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=fastapi" theme="dark" height="32"/>&nbsp;&nbsp;<sub>ASGI · async-first · dependency injection</sub></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>DATABASE</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=postgres,sqlite" theme="dark" height="32"/></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>ORM & VALIDATION</sub></td>
-<td valign="middle"><sub>SQLAlchemy 2.0 · Alembic · Pydantic</sub></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>AUTHENTICATION</sub></td>
-<td valign="middle"><sub>JWT · OAuth2 · RBAC · bcrypt</sub></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>CACHING</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=redis" theme="dark" height="32"/></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>DEVOPS</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" theme="dark" height="32"/></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>CLOUD & DEPLOYMENT</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=aws,vercel" theme="dark" height="32"/>&nbsp;&nbsp;<sub>Railway · Neon</sub></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>API & DOCUMENTATION</sub></td>
-<td valign="middle"><sub>OpenAPI · Swagger</sub></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>AI INTEGRATION</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=openai" theme="dark" height="32"/>&nbsp;&nbsp;<sub>LLM APIs</sub></td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td valign="middle"><sub>DEVELOPER TOOLS</sub></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=postman,vscode" theme="dark" height="32"/></td>
-</tr>
-
+<table>
+<tr><td width="150"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,ts,js" /></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=fastapi,nodejs" /></td></tr>
+<tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></td></tr>
+<tr><td><b>ORM & Migrations</b></td><td><img src="https://img.shields.io/badge/SQLAlchemy_2.0-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Alembic-000000?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-000000?style=flat-square&logo=pydantic&logoColor=white" /></td></tr>
+<tr><td><b>Authentication</b></td><td><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=auth0&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-000000?style=flat-square" /></td></tr>
+<tr><td><b>Caching</b></td><td><img src="https://skillicons.dev/icons?i=redis" /></td></tr>
+<tr><td><b>DevOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux" /></td></tr>
+<tr><td><b>Cloud & Deploy</b></td><td><img src="https://skillicons.dev/icons?i=aws,vercel" /> <img src="https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=white" /> <img src="https://img.shields.io/badge/Neon-000000?style=flat-square&logo=postgresql&logoColor=white" /></td></tr>
+<tr><td><b>Testing</b></td><td><img src="https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=pytest&logoColor=white" /></td></tr>
+<tr><td><b>Documentation</b></td><td><img src="https://img.shields.io/badge/OpenAPI-000000?style=flat-square&logo=swagger&logoColor=white" /></td></tr>
+<tr><td><b>AI Integration</b></td><td><img src="https://img.shields.io/badge/LLM_APIs-000000?style=flat-square&logo=openai&logoColor=white" /></td></tr>
+<tr><td><b>Developer Tools</b></td><td><img src="https://skillicons.dev/icons?i=postman,vscode" /></td></tr>
 </table>
 
-<sub>In progress — Celery · Nginx · CI/CD · WebSockets · Microservices</sub>
-
 <br/>
 
-<div align="center"><sub>· · ·</sub></div>
-
-<br/>
 &nbsp;
 
 ## Metrics
