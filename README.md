@@ -130,11 +130,6 @@ Next.js + TypeScript front for the work above — live deployments, architecture
 
 ## Metrics
 
-<table align="center"><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=yogesh-kumar-sharma&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9"/></td>
-<td><img src="https://streak-stats.demolab.com?user=yogesh-kumar-sharma&theme=dark&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF"/></td>
-</tr></table>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/yogesh-kumar-sharma/yogesh-kumar-sharma/output/github-contribution-grid-snake-dark.svg"/>
 </div>
