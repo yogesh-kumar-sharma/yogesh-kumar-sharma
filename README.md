@@ -108,19 +108,28 @@ Next.js + TypeScript front for the work above — live deployments, architecture
 
 &nbsp;
 
-## Stack
+## Toolchain
 
 <table width="100%">
-<tr><td width="130"><b>core</b></td><td><img src="https://skillicons.dev/icons?i=python,fastapi,postgres" theme="dark"/></td></tr>
-<tr><td><b>data</b></td><td><img src="https://skillicons.dev/icons?i=sqlite,redis" theme="dark"/> <img src="https://img.shields.io/badge/SQLAlchemy_2.0-2DD4BF?style=flat-square&labelColor=0D1117"/> <img src="https://img.shields.io/badge/Alembic-2DD4BF?style=flat-square&labelColor=0D1117"/></td></tr>
-<tr><td><b>auth</b></td><td><img src="https://img.shields.io/badge/JWT-2DD4BF?style=flat-square&labelColor=0D1117"/> <img src="https://img.shields.io/badge/OAuth2-2DD4BF?style=flat-square&labelColor=0D1117"/> <img src="https://img.shields.io/badge/RBAC-2DD4BF?style=flat-square&labelColor=0D1117"/></td></tr>
-<tr><td><b>ship</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws" theme="dark"/> <img src="https://img.shields.io/badge/Railway-2DD4BF?style=flat-square&labelColor=0D1117"/></td></tr>
-<tr><td><b>quality</b></td><td><img src="https://img.shields.io/badge/Pytest-2DD4BF?style=flat-square&labelColor=0D1117"/> <img src="https://img.shields.io/badge/OpenAPI-2DD4BF?style=flat-square&labelColor=0D1117"/></td></tr>
-<tr><td><b>tools</b></td><td><img src="https://skillicons.dev/icons?i=postman,vscode,ts,js" theme="dark"/></td></tr>
+<tr><td width="150"><sub>LANGUAGES</sub></td><td><img src="https://skillicons.dev/icons?i=python,ts,js" theme="dark"/></td></tr>
+<tr><td><sub>BACKEND</sub></td><td><img src="https://skillicons.dev/icons?i=fastapi,nodejs" theme="dark"/></td></tr>
+<tr><td><sub>DATA</sub></td><td><img src="https://skillicons.dev/icons?i=postgres,sqlite,redis" theme="dark"/> <img src="https://img.shields.io/badge/SQLAlchemy_2.0-1A1F26?style=flat-square"/> <img src="https://img.shields.io/badge/Alembic-1A1F26?style=flat-square"/></td></tr>
+<tr><td><sub>INFRASTRUCTURE</sub></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux" theme="dark"/></td></tr>
+<tr><td><sub>DEPLOYMENT</sub></td><td><img src="https://img.shields.io/badge/Railway-1A1F26?style=flat-square"/> <img src="https://img.shields.io/badge/Vercel-1A1F26?style=flat-square"/> <img src="https://img.shields.io/badge/Neon-1A1F26?style=flat-square"/></td></tr>
+<tr><td><sub>CLOUD</sub></td><td><img src="https://skillicons.dev/icons?i=aws" theme="dark"/></td></tr>
+<tr><td><sub>TESTING</sub></td><td><img src="https://img.shields.io/badge/Pytest-1A1F26?style=flat-square"/></td></tr>
+<tr><td><sub>DOCUMENTATION</sub></td><td><img src="https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-1A1F26?style=flat-square"/></td></tr>
+<tr><td><sub>AI APIS</sub></td><td><img src="https://img.shields.io/badge/LLM%20APIs-1A1F26?style=flat-square"/></td></tr>
+<tr><td><sub>DEV TOOLS</sub></td><td><img src="https://skillicons.dev/icons?i=postman,vscode" theme="dark"/></td></tr>
 </table>
 
-`now learning` → Celery · Nginx · CI/CD · WebSockets · microservices
+<sub>Currently learning — Celery · Nginx · CI/CD · WebSockets · Microservices</sub>
 
+<br/>
+
+<div align="center"><sub>· · ·</sub></div>
+
+<br/>
 &nbsp;
 
 ## Metrics
